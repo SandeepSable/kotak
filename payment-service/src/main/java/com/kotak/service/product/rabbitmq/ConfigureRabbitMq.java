@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class ConfigureRabbitMq {
 
-    public static final String QUEUE_NAME = "employee_queue";
+    public static final String QUEUE_NAME = "product_queue";
 
     @Bean
     SimpleMessageListenerContainer simpleMessageListenerContainer(ConnectionFactory connectionFactory, MessageListenerAdapter messageListenerAdapter) {

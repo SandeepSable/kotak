@@ -8,14 +8,14 @@
         <version>2.3.3.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.burhan</groupId>
-    <artifactId>consumer</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>consumer</name>
+    <groupId>com.kotak.service</groupId>
+    <artifactId>payment-service</artifactId>
+    <version>v1.2</version>
+    <name>payment-service</name>
     <description>Consumer Spring Boot Project</description>
 
     <properties>
-        <java.version>14</java.version>
+        <java.version>1.8</java.version>
     </properties>
 
     <dependencies>

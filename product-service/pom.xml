@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.kotak</groupId>
     <artifactId>product-service</artifactId>
-    <version>v-1.0</version>
+    <version>v1.2</version>
     <name>product-service</name>
     <description>Product Spring Boot App</description>
 
